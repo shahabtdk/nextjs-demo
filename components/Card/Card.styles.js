@@ -13,5 +13,6 @@ export const CardWrapper = styled.div`
 `;
 
 export const ImageWrapper = styled(Image)`
-  padding: 24px;
+  object-fit: contain;
+  padding: 15px;
 `;
